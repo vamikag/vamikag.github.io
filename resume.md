@@ -1,5 +1,7 @@
 # Vamika Goel
 
+![University of Washington logo](img/uw.jpg)
+
 vamika.goel@example.com  
 
 https://github.com/vamikag  
